@@ -30,6 +30,7 @@ An Four Card Feature Section website homepage - using only **HTML5** e **CSS3**
 
 <p align="center">
   <img src="./design/desktop-preview.jpg" >
+  <img src="https://res.cloudinary.com/dr05turuf/image/upload/v1587858174/desafio01_i7vytt.gif" >
 </p>
 
 Felipe Santiago
